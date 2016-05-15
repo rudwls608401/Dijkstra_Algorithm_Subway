@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "지하철", "지하철\지하철.vcxproj", "{C802FA9E-195C-45CC-B978-07099FEAD0CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C802FA9E-195C-45CC-B978-07099FEAD0CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C802FA9E-195C-45CC-B978-07099FEAD0CD}.Debug|Win32.Build.0 = Debug|Win32
+		{C802FA9E-195C-45CC-B978-07099FEAD0CD}.Release|Win32.ActiveCfg = Release|Win32
+		{C802FA9E-195C-45CC-B978-07099FEAD0CD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
