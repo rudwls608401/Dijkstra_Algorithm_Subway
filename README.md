@@ -2,6 +2,8 @@
 
 Author : annkyeongjin
 
+E-mail : rudwls608401@naver.com
+
 Description : This repository contains subway source file. Developed by C++ and Visual studion 2013.
 
 Introduction : This is simple subway program. 
